@@ -1,0 +1,56 @@
+/*****Start Default Theam*****/
+
+/*Nab Bar*/
+.navbar-inverse .navbar-nav > .active > a, 
+.navbar-inverse .navbar-nav > .active > a:hover, 
+.navbar-inverse .navbar-nav > .active > a:focus 
+{
+    background: #E41B17;
+}
+.navbar-inverse .navbar-brand span {
+    color: #E41B17;
+}
+/*Dropdown Menu*/
+.dropdown-menu > li > a:hover, 
+.dropdown-menu > li > a:focus {
+    background: #E41B17;
+    color: white;
+}
+.dropdown-menu {
+    border-top: 3px solid #E41B17;
+}
+.dropdown-menu .divider {
+    background-color: #E41B17 ;
+}
+/*Carousel Indicators*/
+.carousel-indicators .active {
+    background-color: #E41B17;
+}
+/*Option Box*/
+.option-box .color-option {
+    border: 4px solid #E41B17;
+}
+.option-box .color-option ul li {
+    background: #f00;
+}
+.option-box span {
+    background: #E41B17;
+}
+/*About*/
+.about h1 span {
+    color:#E41B17
+}
+.about h3 span {
+    color:#E41B17
+}
+.testimonials .container .carousel .item span {
+    color: #E41B17;
+}
+/*Ultmate*/
+.footer .container .row .three-columns li:hover {
+    color: #E41B17;
+}
+.footer .container .row h3 {
+    color: #0895D1;
+}
+/*****End Default Theam*****/

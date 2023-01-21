@@ -1,0 +1,115 @@
+/*Start Media Query*/
+/*Smart Phones And Tablets*/
+@media (max-width: 767px) {
+    .navbar-inverse .navbar-nav > li > a {
+        padding-bottom: 6px;
+        padding-top: 6px;
+    }
+    .form-control {
+        margin: 0 0 18px 0;
+    }
+    .about .lead {
+        font-size: 20px;
+    }
+    .testimonials .container h1 {
+        font-size: 25px;
+    }
+    .price-table .container h1 {
+        font-size: 25px;
+        font-weight: bold;
+    }
+    .our-team .team .container h1 {
+        font-size: 25px;
+        font-weight: bold;
+    }
+    h3, .h3 {
+        font-size: 20px;
+    }
+    .our-team .team .container .row .person img {
+        width: 140px;
+    }
+    .subscribe .container h1 {
+        font-size: 25px;
+        font-weight: bold;
+    }
+    .statistics .data .container h1 {
+        font-size: 25px;
+        font-weight: bold;
+    }
+    .statistics .data .container .row .stats {
+        margin: 0px -1px 30px 23px;
+    }
+    .statistics .data .container .row .stats span {
+        font-weight: bold;
+    }
+    .our-skills .container h1 {
+        font-size: 25px;
+        font-weight: bold;
+    }
+    .our-skills .container .row .skills-info h2 {
+        margin-top: 40px;
+    }
+    h1, .h1 {
+        font-size: 25px;
+        font-weight: bold;
+        margin-bottom: 28px;
+    }
+    .footer .container .row h3 {
+        text-align: center;
+    }
+    .list-unstyled {
+        text-align: center;
+    }
+    .footer .container .row .social .face {
+        width: 30px;
+    }
+    .footer .container .row .social .face {
+        width: 30px;
+    }
+    .footer .container .row .social {
+        margin-left: 5px;
+        padding: 0 0 0 35px;
+    }
+    .footer .container .row .social img {
+        width: 40px;
+        margin-top: 5px;
+    }
+    .footer .container .row .media .pull-left img {
+        width: 30px;
+        height: 30px;
+        border-radius: 4px;
+        margin-top: 32px;
+    }
+    .media-heading {
+        font-size: 15px;
+        font-weight: bold;
+    }
+    .media-left, .media-right, .media-body {
+        font-size: 14px;
+    }
+    .footer .container .row .awesome-work .img-thumbnail {
+        margin-left: 44px;
+    }
+    .option-box .color-option {
+        width: 65px;
+    }
+    .option-box span {
+        font-size: 20px;
+    }
+    h4, .h4 {
+        font-size: 14px;
+    }
+}
+/*Small Screen*/
+@media (min-width: 768px) and (max-width: 991px) {
+
+}
+/*Medium Screen*/
+@media (min-width: 992px) and (max-width: 1199px) {
+    
+}
+/*Large Screen*/
+@media (min-width: 1200px) {
+    
+}
+/*End Media Query*/
